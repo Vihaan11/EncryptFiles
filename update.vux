@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VisualUpdateExpress>
-  <ApplicationName>MyCoolApp</ApplicationName>
-  <CurrentVersion>1.2.0</CurrentVersion>
-  <UpdateURL></UpdateURL>
-  <UpdateMessage>A new version with awesome features is available!</UpdateMessage>
+  <ApplicationName>EncryptFiles</ApplicationName>
+  <CurrentVersion>1</CurrentVersion>
+  <UpdateURL>https://vihaan11.github.io/EncryptFiles/EncryptFiles_Installer_v2.0_x86-64.exe</UpdateURL>
+  <UpdateMessage>A new version with new features is available!</UpdateMessage>
 </VisualUpdateExpress>
